@@ -1,0 +1,7 @@
+Rating Given at 12
+Rating Given at 12
+Rating Given at 2021-07-18 12:53:28.561134
+Rating Given at 2021-07-18 12:55:30.952457 is 0 
+Rating Given at 2021-07-18 12:55:37.195404 is 201 
+Rating Given at 2021-07-18 12:55:49.365144 is 268 
+Rating Given at 2021-07-18 12:56:14.237361 is 10 
